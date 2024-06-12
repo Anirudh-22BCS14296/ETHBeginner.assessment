@@ -1,0 +1,7 @@
+MyToken is a simple ERC-20-like token smart contract implemented in Solidity. It allows users to mint and burn tokens, providing basic functionalities for a cryptocurrency token on the Ethereum blockchain.
+
+Features
+Minting: Create new tokens and add them to an account's balance.
+Burning: Remove tokens from an account's balance and decrease the total supply.
+Token Information: Publicly accessible information about the token's name, symbol, and total supply.
+Balance Tracking: Keep track of the balance of each address holding the token.
